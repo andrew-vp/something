@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display Something</title>
+</head>
+<body>
+    <h1>something</h1>
+    <script>
+        // JavaScript can also display text
+        console.log("something");
+        alert("something"); // This will create a popup alert displaying 'something'
+    </script>
+</body>
+</html>
